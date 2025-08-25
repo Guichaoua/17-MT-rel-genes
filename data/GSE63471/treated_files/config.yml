@@ -1,0 +1,23 @@
+ER_FROM_IHC:
+ name: ro
+ type: categorical
+ values:
+  '1': ER_ENRICHED
+  '0': ER_LOW
+HER2_FROM_IHC:
+ name: her
+ type: categorical
+ values:
+  '1': HER2_ENRICHED
+PCR:
+ name: rch
+ type: categorical
+ values:
+  '1': PCR
+  '0': noPCR
+COHORT:
+ name: COHORT
+ type: categorical
+ values:
+  GSE63471: GSE63471
+
