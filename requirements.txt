@@ -1,0 +1,12 @@
+# Python 3.11 recommended
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.8.4
+networkx==3.2.1
+scikit-learn==1.4.2
+python-igraph==0.11.4
+pypath-omnipath==0.14.48
+cairocffi>=1.6
+ipykernel==6.29.5
+pyyaml==6.0.1
