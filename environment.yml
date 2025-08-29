@@ -1,0 +1,18 @@
+name: mt-rel-genes
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scipy=1.13.1
+  - matplotlib=3.8.4
+  - networkx=3.2.1
+  - scikit-learn=1.4.2
+  - python-igraph=0.11.4
+  - cairocffi
+  - ipykernel=6.29
+  - pyyaml=6.0.1
+  - pip
+  - pip:
+      - pypath-omnipath==0.14.48
